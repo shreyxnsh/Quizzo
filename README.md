@@ -3,7 +3,8 @@ This project is build on kotlin. The application works on some basics of android
 I have tried to maintain the code quite readable and as short as possible. 
 Check the screenshots to get a better understanding.
 
-Solarized dark             |  Solarized Ocean
+MainActivity screen        |  1st que with options and progress bar
 :-------------------------:|:-------------------------:
-![1](https://user-images.githubusercontent.com/88729972/165075178-d25dba74-e37d-4faf-8f16-f0058b6c3af9.jpeg)  |  ![2](https://user-images.githubusercontent.com/88729972/165075202-81f513df-1b7d-4622-b764-9da79b88ff50.jpeg)
+![10](https://user-images.githubusercontent.com/88729972/165075487-31eb47a2-0e16-4d07-9217-33f66b4e2276.jpeg) |  ![11](https://user-images.githubusercontent.com/88729972/165075512-eee25755-55a4-44be-86c7-5aab032779e3.jpeg)
+
 
